@@ -15,4 +15,4 @@ You can use it easily:
 Reporting Bugs
 --------------
 
-Please report all bugs to https://github.com/amiremohamadi/NUMLY
+Please report all bugs to https://github.com/amiremohamadi/MBOX
