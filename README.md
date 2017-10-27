@@ -4,7 +4,7 @@ A script for checking Gmail using terminal (Linux)
 How to use
 --------------
 
-You can use it easy:
+You can use it easily:
 
 1-Download mbox.sh
 
