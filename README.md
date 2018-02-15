@@ -1,5 +1,5 @@
 # MBOX
-A script for checking Gmail using terminal (Linux)
+> A script for checking Gmail using terminal (Linux)
 
 Reporting Bugs
 --------------
