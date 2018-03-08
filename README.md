@@ -1,7 +1,12 @@
 # MBOX
-> A script for checking Gmail using terminal (Linux)
+> Check your Gmail messagebox in terminal
 
-Reporting Bugs
---------------
+ ## How to use
+ 
+   ```bash
+  ./mbox.sh  # 😄
+  ```
 
-Please report all bugs to https://github.com/amiremohamadi/MBOX
+ ## Reporting Bugs
+
+ Please report all bugs to https://github.com/amiremohamadi/MBOX
